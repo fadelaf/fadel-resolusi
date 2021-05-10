@@ -3,7 +3,11 @@ Rencana Belajar
 - Belajar Javascript
   * ES6
   * Framework Javascript
+    ^ Vue
+    ^ React
 - Struktur Data Dasar 
 - Belajar Kanji N5
 - Belajar Nodejs
+    ^ Laravel
 - Belajar database
+- Python
