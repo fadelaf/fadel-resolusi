@@ -4,4 +4,4 @@ Fadel resolusi
 - Belajar bahasa Jepang
 - Lulus JLPT N2
 - Belajar C++
-- Dapat kerja
+- Membuat game
