@@ -1,0 +1,8 @@
+Rencana Belajar
+
+- Belajar Javascript
+  * ES6
+  * Framework Javascript
+- Belajar Kanji N5
+- Belajar Nodejs
+- Belajar database
